@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">AndroMonth</string>
+    <string name="title0">Изучение Java</string>
+    <string name="desc0">Освой основы Java, так как Minecraft написан на этом языке.</string>
+
+    <string name="title1">Настройка среды</string>
+    <string name="desc1">Установи IntelliJ IDEA или Eclipse и настрой Forge MDK.</string>
+
+    <string name="title2">Основы Forge</string>
+    <string name="desc2">Разбери, как работает Forge API для создания модов.</string>
+
+    <string name="title3">Файлы мода</string>
+    <string name="desc3">Изучи структуру файлов и папок, необходимых для мода.</string>
+
+    <string name="title4">Добавление блоков</string>
+    <string name="desc4">Создай и зарегистрируй новый блок в игре.</string>
+
+    <string name="title5">Создание предметов</string>
+    <string name="desc5">Добавь в игру новый предмет с кастомными характеристиками.</string>
+
+    <string name="title6">Рецепты крафта</string>
+    <string name="desc6">Используй JSON-файлы для настройки рецептов крафта.</string>
+
+    <string name="title7">Текстуры и модели</string>
+    <string name="desc7">Настрой текстуры и 3D-модели для блоков и предметов.</string>
+
+    <string name="title8">Работа с NBT</string>
+    <string name="desc8">Используй NBT-данные для хранения информации об объектах.</string>
+
+    <string name="title9">События в игре</string>
+    <string name="desc9">Работай с EventBus, чтобы реагировать на игровые события.</string>
+
+    <string name="title10">Создание мобов</string>
+    <string name="desc10">Добавь нового моба с уникальными характеристиками.</string>
+
+    <string name="title11">AI для мобов</string>
+    <string name="desc11">Настрой поведение мобов с помощью GoalSelector.</string>
+
+    <string name="title12">Генерация мира</string>
+    <string name="desc12">Добавь руды, структуры и биомы в мир Minecraft.</string>
+
+    <string name="title13">Пользовательский GUI</string>
+    <string name="desc13">Создай интерфейсы, такие как инвентари и панели.</string>
+
+    <string name="title14">Эффекты и частицы</string>
+    <string name="desc14">Добавь визуальные эффекты и анимации.</string>
+
+    <string name="title15">Оптимизация кода</string>
+    <string name="desc15">Улучшай производительность, избегая лишних вызовов.</string>
+
+    <string name="title16">Работа с сетью</string>
+    <string name="desc16">Сделай мод совместимым с мультиплеером.</string>
+
+    <string name="title17">Логирование</string>
+    <string name="desc17">Используй LOGGER.info() для отладки и поиска ошибок.</string>
+
+    <string name="title18">Обновления Forge</string>
+    <string name="desc18">Следи за изменениями в API и адаптируй код.</string>
+
+    <string name="title19">Конфигурации</string>
+    <string name="desc19">Добавь настройки, чтобы пользователи могли изменять поведение мода.</string>
+
+    <string name="title20">Лицензирование</string>
+    <string name="desc20">Реши, под какой лицензией распространять свой мод.</string>
+
+    <string name="title21">Публикация на GitHub</string>
+    <string name="desc21">Выкладывай код, чтобы работать в команде и получать фидбек.</string>
+
+    <string name="title22">Эксперименты с механиками</string>
+    <string name="desc22">Придумывай новые механики и пробуй их реализовать.</string>
+
+    <string name="title23">Обратная связь</string>
+    <string name="desc23">Получай отзывы от игроков и улучшай свой мод.</string>
+
+    <string name="title24">Сообщество</string>
+    <string name="desc24">Общайся с другими разработчиками на форумах и в Discord.</string>
+
+    <string name="title25">Добавление звуков</string>
+    <string name="desc25">Настраивай новые звуки для мобов, блоков и предметов.</string>
+
+    <string name="title26">Балансировка</string>
+    <string name="desc26">Следи, чтобы мод был сбалансирован и не ломал геймплей.</string>
+
+    <string name="title27">Совместимость</string>
+    <string name="desc27">Проверяй, чтобы твой мод не конфликтовал с другими.</string>
+
+    <string name="title28">Подготовка к релизу</string>
+    <string name="desc28">Тестируй и исправляй ошибки перед выпуском.</string>
+
+    <string name="title29">Продвижение</string>
+    <string name="desc29">Рассказывай о своем моде в соцсетях и на платформах для моддеров.</string>
+
+    <string name="expand_button">Expand Button to view description of each day</string>
+    <string name="days_30">30 дней</string>
+</resources>
